@@ -1,0 +1,1 @@
+A responsive and interactive web application built with HTML, CSS, Bootstrap, and JavaScript to help users manage their personal finances. It features dynamic expense tracking, budget summary updates, and user-friendly forms. This project showcases front-end development skills, including DOM manipulation, responsive layout design, and UI/UX improvements.
